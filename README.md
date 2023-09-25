@@ -18,8 +18,13 @@ This problem can be resolved by making a bot which can remove the waste and chec
  2. Fritzing
  3. Fusion 360
 ## Result:
-When the bot is released into the water, with the help of a servo the wastage materials are collected and dumped into the waste bin which is located above the bot. This bot is controlled by Bluetooth transmission.
+When the bot is released into the water, with the help of a servo the waste materials are collected and dumped into the waste bin which is located above the bot. This bot is controlled by Bluetooth transmission.
 ## Future enhancement: 
- The Swatch Neer can further extended by adding sensors to make it autonomous without any need of human involment to control it.
+ The Swatch Neer can be further extended by adding sensors to make it autonomous without any need for human involvement to control it.
 ## Conclusion:
-Finally, we conclude that our bot (swach neer) which is operated by remote control is a small helping hand to those who clean water bodies manually as it    takes very less effort for a person to use a robot than a person working himself to clean the water body. This reduces manpower and is environmentally friendly.
+Finally, we conclude that our bot (swach neer) which is operated by remote control is a small helping hand to those who clean water bodies manually as it    takes much less effort for a person to use a robot than a person working himself to clean the water body. This reduces manpower and is environmentally friendly.
+
+
+## Resources:
+Find the CAD model of the project Uploaded above.
+Do check the Arduino Code for the project mentioned in the file Induction2022. 
